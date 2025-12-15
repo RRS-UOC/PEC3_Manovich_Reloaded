@@ -1,6 +1,8 @@
 # PEC3: Manovich Reloaded
 **Autor:** Rubén Requena  
+
 **Asignatura:** Cultura Digital
+
 **Año:** 2025  
 
 ---
