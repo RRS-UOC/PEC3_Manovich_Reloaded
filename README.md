@@ -73,5 +73,7 @@ Ambos ejemplos llevan al que antes era el espectador o el jugador a una nueva ex
 ## Recursos y referencias
 
 El software toma el mando, Lev Manovich, 2013
+
 Bandersnatch, Netflix, 2018
+
 Ingress, Niantic, 2012
