@@ -19,7 +19,7 @@ En este trabajo se presentan 2 ejemplos contemporáneos de hibridación:
 ---
 
 ## Caso 1: Narrativas interactivas “elige tu propia aventura” — *Bandersnatch*
-<img width="850" height="850" alt="bandersnathc1" src="https://github.com/user-attachments/assets/2593ab50-8176-40d4-92e9-1572cea938a7" />
+<img width="347" height="440" alt="Captura de pantalla 2025-12-19 a las 18 25 08" src="https://github.com/user-attachments/assets/b8b9bf9e-67c1-44ca-a2ca-38e4e3abf5f5" />
 
 Bandersnatch es, sin ninguna duda, uno de los ejemplos más claros de hibridación entre cine y juego. 
 Esta película, producida dentro del universo de Black Mirror, aunque posee todas las características visuales de una película convencional (estética, lenguaje y estructura audiovisual), funciona radicalmente diferente a nivel interno, ya que está diseñada como un juego de "elige tu propia aventura", en el cual encontramos características como interactividad, ramificación narrativa y ejecución en tiempo real. Todas estas características (o al menos la mayoría) ya estaban presentes en los llamados "libro-juegos", que son los antecedentes más antiguos de este tipo de mecánicas.
@@ -31,22 +31,28 @@ La estructura de esta película ya se ha visto previamente, en libro-juegos como
 Asimismo, la forma en la que los checkpoints son utilizados nos indica que existe una resemblanza directa entre el diseño de los videojuegos modernos sin dejar de lado la estética del cine.
 
 El resultado es una experiencia que cambia en cada visionado que puedes ver una y otra vez, buscando alcanzar todos los posibles finales de los que dispone. 
+
 ![bandersnatch_tree](https://github.com/user-attachments/assets/762b298f-564c-4bc2-b2b3-6f96f7c9fff6)
 
 Es por todo lo anterior que, desde el punto de vista de Manovich, esta película encarna perfectamente el concepto de “remezcla profunda” (Manovich 2013) ya que no sólo mezcla dos medios, sino también su funcionamiento interno y sus técnicas y la implicación del espectador, convirtiéndolo en jugador. Esta hibridación sólo podía conseguirse gracias al software que permite unir mecánicas que previamente resultaban totalmente incompatibles.
 
 En este sentido, Bandersnatch es un ejemplo fantástico de los escritos de Manovich: transforma no sólo la producción, sino también el concepto propio que tenemos por obra o protagonista.
+
 ![bandersnatch_head](https://github.com/user-attachments/assets/0487bf45-2018-42dd-bed3-d91ab7518b05)
 
 
 ---
 
 ## Caso 2: Realidad Aumentada como mezcla del mundo físico y digital — *Ingress* (Niantic)
+
 ![ingress1](https://github.com/user-attachments/assets/59772681-2557-4fa7-9c3c-d0c1c5d083cb)
 
 Ingresss (Niantic, 2012) es posiblemente una de las primeras experiencias globales y masivas en las que el propio espacio físico se convierte en parte de la interfaz digital del juego.  Años antes del nacimiento de Pokemon GO, Niantic ya había diseñado un sistema de juego basado en la geolocalización, que combinaba narrativa, usuarios interconectados, exploración y datos. Por todo esto Ingress resulta un claro ejemplo de hibridación entre el mundo físico y el digital.
 
 Además, Ingress consiguió algo increíble: construir una comunidad global y organizada realizando misiones de manera colaborativa y afectando no solo a la narrativa del juego si no a su propia estructura, consiguiendo una experiencia colectiva que estaba en constante cambio y que traspasaba los límites antes conocidos de un videojuego convencional.
+
+![ingress2](https://github.com/user-attachments/assets/e765f82e-086a-4682-bfb8-f8bdb68b0569)
+
 
 A diferencia de la experiencia clásica de un videojuego, que se experimenta en un mundo digital, ficticio o no, aquí el mapa es el mundo real. Tú, como jugador estás en el juego, literalmente sobre el mapa. Los monumentos, esculturas, murales y lugares de interés se transforman en “portales” que ambas facciones deben intentar controlar. Las ciudades y pueblos se convierten realmente en un campo de juego híbrido donde, como jugador, cada movimiento que realizas se convierte en datos, acciones y finalmente en consecuencias reales del juego.
 
@@ -83,3 +89,5 @@ El software toma el mando, Lev Manovich, 2013
 Bandersnatch, Netflix, 2018
 
 Ingress, Niantic, 2012
+
+Behance.net, Luis Atao, 2019
